@@ -1,0 +1,18 @@
+﻿  pch.cpp
+  Lab_test_5_1_B.cpp
+C:\Users\maksd\source\repos\Lab_5_1_B\Lab_5_1_B\FuzzyNumber.h(13,13): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_B\Lab_5_1_B\FuzzyNumber.h(27,53): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_B\Lab_5_1_B\FuzzyNumber.h(28,46): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_B\Lab_5_1_B\FuzzyNumber.h(29,55): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_B\Lab_5_1_B\FuzzyNumber.h(30,48): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_B\Lab_5_1_B\FuzzyNumber.h(36,76): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_B\Lab_5_1_B\FuzzyNumber.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\maksd\source\repos\Lab_5_1_B\Lab_5_1_B\FuzzyNumber.cpp(7,73): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_B\Lab_5_1_B\FuzzyNumber.cpp(39,65): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_B\Lab_5_1_B\FuzzyNumber.cpp(47,58): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_B\Lab_5_1_B\FuzzyNumber.cpp(55,67): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_B\Lab_5_1_B\FuzzyNumber.cpp(64,60): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_B\Lab_5_1_B\FuzzyNumber.cpp(96,68): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_B\Lab_test_5_1_B\Lab_test_5_1_B.cpp(3,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+     Создается библиотека C:\Users\maksd\source\repos\Lab_5_1_B\Debug\Lab_test_5_1_B.lib и объект C:\Users\maksd\source\repos\Lab_5_1_B\Debug\Lab_test_5_1_B.exp
+  Lab_test_5_1_B.vcxproj -> C:\Users\maksd\source\repos\Lab_5_1_B\Debug\Lab_test_5_1_B.dll
